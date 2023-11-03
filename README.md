@@ -1,3 +1,5 @@
 # git_test
-My first Gitjub repo!
+My first Github repo!
 Hello Odin!
+I finally fixed the typo after two weeks on this.
+further projects coming soon.
